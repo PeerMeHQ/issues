@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ideas & Feature Requests
+    url: https://github.com/PeerMeHQ/issues/discussions/new?category=ideas-feature-requests
+    about: For ideas or feature requests, start a new discussion
+  - name: Support Question
+    url: https://know.peerme.io/general/support.html
+    about: This repository is only for reporting bugs. Please visit our dedicated support channels
+  - name: Documentation Issue
+    url: https://github.com/PeerMeHQ/know
+    about: For documentation issues, open a pull request in the PeerMeHQ/know repository
