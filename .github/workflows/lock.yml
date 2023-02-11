@@ -26,7 +26,7 @@ jobs:
           exclude-issue-closed-before: ''
           exclude-issue-closed-after: ''
           exclude-issue-closed-between: ''
-          include-any-issue-labels: 'request, bug'
+          include-any-issue-labels: 'enhancement, bug'
           include-all-issue-labels: ''
           exclude-any-issue-labels: ''
           add-issue-labels: ''
