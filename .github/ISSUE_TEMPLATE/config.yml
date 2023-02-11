@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ideas & Feature Requests
-    url: https://github.com/PeerMeHQ/issues/discussions/new?category=ideas-feature-requests
-    about: For ideas or feature requests, start a new discussion
+    url: https://peerme.io/contact
+    about: For ideas or feature requests, reach out via our social channels
   - name: Support Question
     url: https://know.peerme.io/general/support.html
     about: This repository is only for reporting bugs. Please visit our dedicated support channels
